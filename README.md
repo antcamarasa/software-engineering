@@ -6,14 +6,6 @@ Mon parcours d'autoformation en informatique fondamentale, construit sur une seu
 
 Les frameworks, je les apprends au travail. Ici, je construis ce que les frameworks cachent : les structures de données, le langage C, la machine, le réseau.
 
-## Règles
-
-1. **Un bloc à la fois.** Je termine le bloc en cours avant d'ouvrir le suivant.
-2. **Une ressource par bloc.** Pas de liste de 50 liens. Un seul livre.
-3. **Les livres fondamentaux se font en entier.** On ne découpe pas un manuel de référence.
-4. **Le code d'abord.** Chaque bloc se termine par ce que j'ai construit moi-même, pas par des notes.
-5. **Condition de sortie.** Un bloc est terminé quand sa condition de sortie est remplie. Ni avant, ni après.
-
 ## Feuille de route
 
 | # | Bloc | Ressource | Pratique | Statut | Repo |
