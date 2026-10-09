@@ -31,8 +31,8 @@ Les frameworks, je les apprends au travail. Ici, je construis ce que les framewo
 | 2 | C | *The C Programming Language* — Kernighan & Ritchie | Tous les exercices | ⚪ À faire | [C](https://github.com/antcamarasa/c) |
 | 3 | Systèmes informatiques (C) | *Computer Systems: A Programmer's Perspective* — Bryant & O'Hallaron | Les 8 labs officiels | ⚪ À faire | [computer-systems](https://github.com/antcamarasa/computer-systems) |
 | 3b | ↳ Minishell | Shell Lab de CS:APP | Mon propre shell Unix avec contrôle des tâches | ⚪ À faire | [minishell](https://github.com/antcamarasa/minishell) |
-| 4 | Programmation réseau (C) | *Hands-On Network Programming with C* — Lewis Van Winkle |  ⚪ À faire | [network-programming-c](https://github.com/antcamarasa/network-programming-c) |
-| 4b | ↳ Discord | Serveur de chat en C (POSIX)| Mon propre discord maison | ⚪ À faire | [minishell](https://github.com/antcamarasa/minishell) |
+| 4 | Programmation réseau (C) | *Hands-On Network Programming with C* — Lewis Van Winkle |  ⚪ À faire | [network-programming-c](https://github.com/antcamarasa/network-programming) |
+| 4b | ↳ Discord | Serveur de chat en C (POSIX)| Mon propre discord maison | ⚪ À faire | [minishell](https://github.com/antcamarasa/discord) |
 
 Statut : ⚪ À faire · 🟡 En cours · 🟢 Terminé
 
