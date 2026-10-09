@@ -6,15 +6,6 @@ Mon parcours d'autoformation en informatique fondamentale, construit sur une seu
 
 Les frameworks, je les apprends au travail. Ici, je construis ce que les frameworks cachent : les structures de données, le langage C, la machine, le réseau.
 
-## Ce que je saurai faire à la fin
-
-- Comprendre ce qu'est réellement la mémoire : la stack, la heap, un pointeur, une fuite mémoire.
-- Comprendre ce qu'est un tableau, un buffer, un stream, et pourquoi on travaille en binaire.
-- Compiler, lier et exécuter un programme sans être perdu, et comprendre une erreur au lieu de la copier dans un LLM.
-- Savoir ce que fait mon shell, puisque j'en aurai codé un.
-- Comprendre le réseau : ce qui se passe vraiment quand je tape `curl https://example.com`.
-- Coder sans IA, et parler le même langage qu'un ingénieur C ou C++.
-
 ## Règles
 
 1. **Un bloc à la fois.** Je termine le bloc en cours avant d'ouvrir le suivant.
